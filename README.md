@@ -1,6 +1,6 @@
-## 💫 About Me:
+<h1 align="center"> Hello World, I'm Pedro Sampaio, be very welcome</h1> 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Universidade de Mogi das Cruzes (UMC), onde tenho adquirido sólidos conhecimentos em programação, análise de sistemas e desenvolvimento de software. Minha paixão pela tecnologia me motiva a estar sempre buscando aprimorar minhas habilidades e conhecimentos nesta área em constante evolução. Busco iniciar minha carreira como desenvolvedor front-end.
+![Black and Grey Modern Pixelated Typecentric Developer Business Card](https://github.com/user-attachments/assets/8607231b-e9d8-45a3-997a-815749b9673d)
 
 ## 🌐 Socials:
 
