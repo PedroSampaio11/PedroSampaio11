@@ -1,6 +1,7 @@
 <h1 align="center"> Hello World, I'm Pedro Sampaio, be very welcome</h1> 
 
-![Sampaio](https://github.com/user-attachments/assets/8a70cff8-9f84-466d-bb37-5c0b85bea4e1)
+![Sampaio (1)](https://github.com/user-attachments/assets/63cebeb9-4964-4fc1-b2b8-49b8b27a5c98)
+
 
 
 ## 🌐 Socials:
