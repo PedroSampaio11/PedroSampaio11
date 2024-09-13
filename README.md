@@ -5,9 +5,10 @@
 ![Sampaio (1)](https://github.com/user-attachments/assets/63cebeb9-4964-4fc1-b2b8-49b8b27a5c98)
 
 
+
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroSampaio11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=false" height="155" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=PedroSampaio11&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="148" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=PedroSampaio11&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8" height="300" alt="streak graph"  />
@@ -61,9 +62,12 @@
 </div>
 
 ###
+###
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PedroSampaio11/PedroSampaio11/output/snake.svg" alt="Snake animation" />
 
+###
+###
 ###
