@@ -1,12 +1,12 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */12 * * *"  # Executa a cada 12 horas
+  workflow_dispatch:  # Permite executar manualmente
   push:
     branches:
-      - master
+      - main  # Executa no push para a branch master
 
 jobs:
   generate:
@@ -32,4 +32,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
