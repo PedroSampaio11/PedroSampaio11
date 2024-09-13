@@ -1,6 +1,7 @@
 <h1 align="center"> Hello World, I'm Pedro Sampaio, be very welcome</h1> 
 
-![Black and Grey Modern Pixelated Typecentric Developer Business Card](https://github.com/user-attachments/assets/8607231b-e9d8-45a3-997a-815749b9673d)
+![Sampaio](https://github.com/user-attachments/assets/8a70cff8-9f84-466d-bb37-5c0b85bea4e1)
+
 
 ## 🌐 Socials:
 
