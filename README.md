@@ -1,4 +1,4 @@
-<h1 align="center"> Hello World, I'm Pedro Sampaio, be very welcome</h1> 
+<h1 align="center"> Hello World, I'm Pedro Sampaio. Be very welcome!</h1> 
 
 ![Sampaio (1)](https://github.com/user-attachments/assets/63cebeb9-4964-4fc1-b2b8-49b8b27a5c98)
 
@@ -7,6 +7,7 @@
 ## 🌐 Socials:
 
 [Instagram](https://www.instagram.com) | [LinkedIn](https://www.linkedin.com)
+
 
 ## 💻 Tech Stack:
 
@@ -25,7 +26,17 @@
 
 ## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroSampaio11&show_icons=true&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=PedroSampaio11&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ## Repositories
 
