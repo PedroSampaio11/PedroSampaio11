@@ -50,12 +50,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/PedroSampaio11/PedroSampaio11/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <p align="center">Contacts:<br>📱 +55 11 948338850<br>📧 pedrosampaio11@icloud.com</p>
 
 
