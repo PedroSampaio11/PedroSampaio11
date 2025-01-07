@@ -1,4 +1,7 @@
-🎥 [Assista ao vídeo](https://raw.githubusercontent.com/PedroSampaio11/PedroSampaio11/main/VideoGithub.mp4)
+<video width="600" controls>
+  <source src="https://raw.githubusercontent.com/PedroSampaio11/PedroSampaio11/main/VideoGithub.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 <h2 align="left">Hello World👋 I'm Pedro Sampaio. Be very welcome!</h2>
 
 ###
