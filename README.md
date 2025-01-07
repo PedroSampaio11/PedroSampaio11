@@ -6,7 +6,8 @@
 
 <br clear="both">
 
-<p align="left">I am a student of Systems Analysis and Development at the University of Mogi das Cruzes (UMC), where I have acquired solid knowledge in programming, systems analysis, and software development. My passion for technology motivates me to constantly seek to improve my skills and knowledge in this ever-evolving field. I am constantly updated on the latest trends and technologies, seeking to apply them effectively in my projects and make a significant contribution to the development of innovative solutions.</p>
+<p align="left">I hold a degree in Systems Analysis and Development from the University of Mogi das Cruzes (UMC) and I am currently the CEO of Four Coders, a web development company focused on creating websites, applications, and innovative digital solutions. My journey in the technology field is driven by a passion for innovation and developing solutions that add value to our clients' projects.
+I am always seeking to enhance my skills and stay up to date with market trends, applying best practices and new technologies to Four Coders' projects. I believe in the power of technology to transform businesses, and I am committed to leading our team in delivering products that stand out for their quality, design, and performance.</p>
 
 ###
 
