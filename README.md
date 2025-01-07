@@ -1,5 +1,4 @@
-
-![Smampaio dev] (https://github.com/user-attachments/assets/473d7925-adbf-4291-9610-8239f37f5d52)
+![Design sem nome (1)](https://github.com/user-attachments/assets/42ab707e-45fe-467d-95a7-7d08bbd67a71)
 
 ###
 <h2 align="left">Hello World👋 I'm Pedro Sampaio. Be very welcome!</h2>
