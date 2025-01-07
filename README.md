@@ -1,4 +1,8 @@
-https://github.com/user-attachments/assets/43160a7f-3cdb-44c2-99b0-2a754c314c34
+
+https://github.com/user-attachments/assets/8c57eba6-3848-48eb-b807-9738da5ebe9c
+
+
+###
 <h2 align="left">Hello World👋 I'm Pedro Sampaio. Be very welcome!</h2>
 
 ###
