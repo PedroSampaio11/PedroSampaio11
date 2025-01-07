@@ -1,4 +1,4 @@
-![Sampaio](https://github.com/PedroSampaio11/PedroSampaio11/blob/main/VideoGithub.mp4)
+🎥 [Assista ao vídeo](https://raw.githubusercontent.com/PedroSampaio11/PedroSampaio11/main/VideoGithub.mp4)
 <h2 align="left">Hello World👋 I'm Pedro Sampaio. Be very welcome!</h2>
 
 ###
