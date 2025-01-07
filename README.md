@@ -1,5 +1,4 @@
-![Sampaio (1)]([ttps://github.com/user-attachments/assets/63cebeb9-4964-4fc1-b2b8-49b8b27a5c98](https://github.com/PedroSampaio11/PedroSampaio11/blob/main/VideoGithub.mp4))
-
+![Sampaio](https://github.com/user-attachments/assets/novo-link-aqui)
 <h2 align="left">Hello World👋 I'm Pedro Sampaio. Be very welcome!</h2>
 
 ###
