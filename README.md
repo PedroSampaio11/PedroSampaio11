@@ -1,6 +1,8 @@
+<div align="center" style="width: 100%;">
 
-![VideoGithub](https://github.com/user-attachments/assets/46b8468d-2642-453a-8f34-e904f802de71)
+  <img src="https://github.com/user-attachments/assets/46b8468d-2642-453a-8f34-e904f802de71" width="100%" />
 
+</div>
 ###
 <h2 align="left">Hello World👋 I'm Pedro Sampaio. Be very welcome!</h2>
 
