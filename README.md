@@ -1,16 +1,18 @@
 ![Design sem nome (1)](https://github.com/user-attachments/assets/42ab707e-45fe-467d-95a7-7d08bbd67a71)
 
-###
-<h2 align="left">Hello World👋 I'm Pedro Sampaio. Be very welcome!</h2>
-
-###
-
+<h1 align="center">👋 Hello World! I'm Pedro Sampaio</h1>
+<p align="center">Welcome to my GitHub! It's great to have you here 🙌</p>
 <br clear="both">
 
-<p align="left">I hold a degree in Systems Analysis and Development from the University of Mogi das Cruzes (UMC) and I am currently the CEO of Four Coders, a web development company focused on creating websites, applications, and innovative digital solutions. My journey in the technology field is driven by a passion for innovation and developing solutions that add value to our clients' projects.
-I am always seeking to enhance my skills and stay up to date with market trends, applying best practices and new technologies to Four Coders' projects. I believe in the power of technology to transform businesses, and I am committed to leading our team in delivering products that stand out for their quality, design, and performance.</p>
+## 👨‍💻 About Me
 
-###
+🎓 Degree in **Systems Analysis and Development** from the University of Mogi das Cruzes (UMC)  
+💼 CEO at **[Four Coders](https://fourcoders.com)** — a web development company focused on creating websites, applications, and innovative digital solutions.
+
+🚀 Passionate about innovation and technology  
+📚 Always improving my skills and staying updated with market trends  
+🛠️ Focused on building projects with **quality, performance, and design**  
+💡 Believer in the power of technology to transform businesses
 
 <br clear="both">
 
