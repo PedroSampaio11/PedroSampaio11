@@ -4,24 +4,6 @@
 <p align="center">Welcome to my GitHub! It's great to have you here 🙌</p>
 <br clear="both">
 
-## 👨‍💻 About Me
-
-🎓 Degree in **Systems Analysis and Development** from the University of Mogi das Cruzes (UMC)  
-💼 CEO at **[Four Coders](https://fourcoders.com)** — a web development company focused on creating websites, applications, and innovative digital solutions.
-
-🚀 Passionate about innovation and technology  
-📚 Always improving my skills and staying updated with market trends  
-🛠️ Focused on building projects with **quality, performance, and design**  
-💡 Believer in the power of technology to transform businesses
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroSampaio11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false" height="222" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 # 💻 Tech Stack:
